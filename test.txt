@@ -1,1 +1,7 @@
-get Customer test report
+DELETE FROM t_guest WHERE guest_contactInfo = '18938778845' AND guest_detection_code = '67551295'
+DELETE FROM t_guest WHERE guest_contactInfo = '13530105006' AND guest_detection_code = '67551297'
+DELETE FROM t_guest WHERE guest_contactInfo = '15804698637' AND guest_detection_code = '67551298'
+DELETE FROM t_guest WHERE guest_contactInfo = '13423726628' AND guest_detection_code = '67551296'
+DELETE FROM t_guest WHERE guest_contactInfo = '13528851126' AND guest_detection_code = '67551302'
+DELETE FROM t_guest WHERE guest_code = '陈桂霞'
+ 
